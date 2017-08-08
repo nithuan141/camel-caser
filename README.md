@@ -1,5 +1,5 @@
 # camel-caser
-A package to convert Javsacric objects keys into camel case
+A package to convert Javascript objects keys into camel case
 
 To install this 
 
