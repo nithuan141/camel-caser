@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "npm-camelcase",
+      "D:\\Nithesh\\Tools\\Test my npm package"
+    ]
+  ],
+  "_from": "npm-camelcase@*",
+  "_id": "npm-camelcase@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/npm-camelcase",
+  "_nodeVersion": "5.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/npm-camelcase-1.0.0.tgz_1502186080990_0.8566115263383836"
+  },
+  "_npmUser": {
+    "email": "nithuan141@gmail.com",
+    "name": "nithuan141"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "npm-camelcase",
+    "raw": "npm-camelcase",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "d30146ed9d98bad305df0b820d306068b00991d5",
+  "_shrinkwrap": null,
+  "_spec": "npm-camelcase",
+  "_where": "D:\\Nithesh\\Tools\\Test my npm package",
+  "author": {
+    "email": "nithuan141@gmail.com",
+    "name": "Nithesh A N",
+    "url": "https://nithuan.wordpress.com/"
+  },
+  "dependencies": {},
+  "description": "A package to convert the keys of every members in an object into camelcase.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d30146ed9d98bad305df0b820d306068b00991d5",
+    "tarball": "https://registry.npmjs.org/npm-camelcase/-/npm-camelcase-1.0.0.tgz"
+  },
+  "keywords": [
+    "camecase",
+    "camel",
+    "case",
+    "case",
+    "convert",
+    "json"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "nithuan141",
+      "email": "nithuan141@gmail.com"
+    }
+  ],
+  "name": "npm-camelcase",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
