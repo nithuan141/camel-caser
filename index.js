@@ -1,12 +1,12 @@
 
-module.exports  = function (o) {
+module.exports toCamelCase = function (o) {
         var newO, origKey, newKey, value
         if (o instanceof Array) {
             newO = []
             for (origKey in o) {
                 value = o[origKey]
                 if (typeof value === "object") {
-                    value = this.toCamel(value)
+                    value = this.toCamelCase(value)
                 }
                 newO.push(value)
             }
@@ -17,7 +17,7 @@ module.exports  = function (o) {
                     newKey = (origKey.charAt(0).toLowerCase() + origKey.slice(1) || origKey).toString()
                     value = o[origKey]
                     if (value !== null && (value.constructor === Object || value.constructor === Array)) {
-                        value = this.toCamel(value)
+                        value = this.toCamelCase(value)
                     }
                     newO[newKey] = value
                 }
