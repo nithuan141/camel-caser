@@ -2,7 +2,7 @@
   "name": "camel-caser",
   "version": "1.0.0",
   "description": "A package to convert the keys of every members in an object into camelcase.",
-  "main": "index.js",
+  "main": "camel-caser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
