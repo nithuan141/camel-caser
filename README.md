@@ -1,13 +1,29 @@
 # camel-caser
-A package to convert Javascript object's keys into camel case
 
-To install this 
+This package will helps to convert all the keys of a javascript object into camel case.  Mostly uefull to convert the keys of JSON to ceml case before parsing it to a type.
 
-<pre>npm install camel-caser --save</pre>
+# Code Example
 
-Example:
 <pre>import camelCaser = require('camel-caser')
 var jsonData= {"Key":"Value"}
 camelCaser.toCamelCase(jsonData)</pre>
 Output would be like this:
 <pre>{"key":"Value"}</pre>
+
+# Installation.
+
+To install this use the below npm command
+<pre>npm install camel-caser --save</pre>
+
+# cTests
+
+<pre>npm test</pre>
+
+# Contributors
+
+https://stackoverflow.com/users/1750719/nithesh
+
+
+# License
+
+MIT
