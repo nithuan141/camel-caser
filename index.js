@@ -1,5 +1,5 @@
 
-exports toCamelCase = function (o) {
+exports.toCamelCase = function (o) {
         var newO, origKey, newKey, value
         if (o instanceof Array) {
             newO = []
