@@ -15,7 +15,7 @@ Output would be like this:
 To install this use the below npm command
 <pre>npm install camel-caser --save</pre>
 
-# cTests
+# Tests
 
 <pre>npm test</pre>
 
