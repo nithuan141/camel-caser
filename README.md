@@ -1,6 +1,6 @@
 # camel-caser
 
-This package will helps to convert all the keys of a javascript object into camel case.  Mostly uefull to convert the keys of JSON to ceml case before parsing it to a type.
+This package will helps to convert all the keys of a javascript object into camel case.  Mostly usefull to convert the keys of JSON to camel case before parsing it to a type.
 
 # Code Example
 
